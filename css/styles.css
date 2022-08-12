@@ -1,3 +1,27 @@
 *{
+    margin:auto
+}
+
+path {
+    fill: url(#gradient) #41BDE0;
+  }
+
+h1 {
+position: absolute;
+top: 5%;
+left: 40%;
+color: aliceblue;
+}
+.wave1 {
+    text-align: left;
+    margin: 20px;
+
+}
+.wave2 {
+    text-align: right;
+    margin: 20px;
     
+}
+.sectiontitle {
+    color:rgb(19, 117, 117)
 }
